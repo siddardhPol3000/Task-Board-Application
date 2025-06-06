@@ -2,7 +2,7 @@
 
 **TaskBoard** is a clean, intuitive, and responsive task management application that helps you organize your projects using boards, columns, and tasks — inspired by the Kanban methodology.
 
-![TaskBoard Preview](BoardView.png)
+![TaskBoard Preview](./src/assets/BoardView.png)
 
 ---
 
